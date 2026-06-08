@@ -81,6 +81,13 @@ img{display:block;max-width:100%}
   font-size:clamp(30px,4vw,50px);
   line-height:1.18;margin-bottom:18px;
 }
+.hero-tagline{
+  font-family:'Poppins';font-weight:600;
+  font-size:clamp(15px,1.4vw,18px);
+  letter-spacing:.5px;
+  color:rgba(255,255,255,.78);
+  margin:-6px 0 18px;
+}
 .hero-copy p{color:rgba(255,255,255,.9);font-size:17px;max-width:520px}
 .hero-actions{display:flex;gap:16px;margin-top:30px;flex-wrap:wrap}
 .dl-btn{
